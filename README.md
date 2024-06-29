@@ -11,6 +11,6 @@ Yêu cầu : Quay lại video demo sản phẩm
 # Complilation Guide 
 pip install streamlit prophet yfinance plotly => streamlit run main.py
 # Video demo 
-
+https://www.youtube.com/watch?v=EukfIvGFbIM&ab_channel=Tu%E1%BA%A5nKhanh
 
 
